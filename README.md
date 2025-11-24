@@ -19,14 +19,13 @@ I'm a **Senior Software Engineer** with over 10 years of experience building sca
 - 🏗️ Led development of large-scale backend systems handling millions of transactions/month  
 - ☁️ Designed event-driven services on AWS with SNS, SQS, and Step Functions  
 - ⚡ Built internal tools and automation pipelines improving deployment speed by 40%  
-- 💬 Speaker & mentor passionate about backend excellence and system design  
+- 💬 Passionate about backend excellence and system design  
 
 ---
 
 ### 🧭 Currently
 - 🚀 Exploring full-stack development with **React + Next.js**
 - 🌱 Building a **micro-SaaS** for real estate auctions
-- 🎯 Goal: Transition to **Staff Engineer** and work remotely for global teams
 
 ---
 
